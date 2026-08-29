@@ -1,7 +1,7 @@
 ### Hi, I'm Mohini 👋
 
 🎓 B.Tech AI/ML Student  
-💻 Skills: Python, C++, JavaScript, HTML, SQL  
+💻 Skills: advance Excel, C++, powerpoint
 🏆 ITI Topper  
 📚 Currently learning: Machine Learning & AI fundamentals  
 🚀 Open to collaborate on beginner-friendly coding/ML projects
