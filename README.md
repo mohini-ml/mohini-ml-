@@ -1,2 +1,2 @@
 # Mohini
-B.Tech AI/ML student | Python, C++, SQL, JS
+B.Tech AI/ML Student | Python, C++, JavaScript, SQL, HTML
